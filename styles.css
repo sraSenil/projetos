@@ -608,7 +608,7 @@ display: center;
         position: fixed;       /* Fixa na tela */
         bottom: 60px;          /* Distância da parte inferior */
         right: 60px;           /* Distância da lateral direita */
-        background-image: url("assets/wp.jpg");
+        background-image: url("assets/wp.JPG");
         background-size: cover;
         width: 80px;
         height: 80px;
